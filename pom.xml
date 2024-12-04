@@ -12,8 +12,8 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <junit.version>5.10.2</junit.version>
-        <komet.version>1.35.0-KEC-SNAPSHOT</komet.version>
-        <tinkar.version>1.72.0-KEC-SNAPSHOT</tinkar.version>
+        <komet.version>1.43.0-SNAPSHOT</komet.version>
+        <tinkar.version>1.78.0</tinkar.version>
     </properties>
 
     <dependencies>
